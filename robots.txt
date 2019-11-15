@@ -1,2 +1,2 @@
-Robots: *
+User-agent: *
 Disallow: /Dragonfly-Search-Engine/
